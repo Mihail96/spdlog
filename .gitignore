@@ -90,3 +90,8 @@ cmake-build-*/
 # macos
 *.DS_store
 *.xcodeproj/
+*.json
+*.vsidx
+*.lock
+/.vs/CMake Overview
+*.sqlite
